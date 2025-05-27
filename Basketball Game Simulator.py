@@ -1,9 +1,5 @@
 '''
 Sarmad Safdar
-Larry Peaks
-Nicholas Hamilton
-Samba Gandega
-CSC-121 Final Project Team 6
 Project: This project is a basketball game simulator created with the Python library, Tkinter.
 The program allows users to draft players for two teams, input points for each team after each game, and determine the series winner in a user-friendly GUI.
 '''
